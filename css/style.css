@@ -1,0 +1,40 @@
+html, body{
+  width: 100%;
+margin: 0;
+padding: 0;
+
+background-color: #0082FF;
+font-family: 'Lemonada', cursive;
+color: #FFA432;
+}
+.nav{
+  margin: 0;
+  padding: 0;
+  background-color: #01FFF5;
+}
+.container{
+text-align: center;
+
+}
+.image{
+  width: 25%;
+  margin-top: 100px;
+  border-radius:50%;
+  height: 25%;
+}
+a{
+  color: #E8DE47;
+  text-decoration: none;
+    -webkit-transition: all 0.5s;
+}
+a:hover{
+
+  color: white;
+}
+table{
+
+  width: 60%;
+  margin:0px 20% 0px 20%;
+margin-left: 20%;
+margin-right:20%;
+}
